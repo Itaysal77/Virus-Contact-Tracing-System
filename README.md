@@ -1,7 +1,10 @@
 # Virus-Contact-Tracing-System
 First project  in 'System Progrramming' course.
+
 In the spirit of the COVID-19, this is a contact tracing system.
+
 The program simulates corona virus spreding, while having contact tracers looking for infected nodes and trying to disconnect their connections.
+
 Output: Graph of the connections after the infection and the infected nodes.
 How to operate:
 1) Make sure bin folder is empty
