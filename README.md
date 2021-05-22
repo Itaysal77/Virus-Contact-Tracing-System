@@ -10,4 +10,4 @@ How to operate:
 1) Make sure bin folder is empty
 2) make
 3) bin/cTrace config1 (or 2/3/4)
-4)Check output.json file to see the result of the simulation.
+4) Check output.json file to see the result of the simulation.
